@@ -1,4 +1,4 @@
-sfinae C++ small test project
+sfinae C++14 small test project
 ===============================
 
 # Project layout
@@ -35,5 +35,5 @@ ctest --preset conan-debug
 
 
 >📝
-> Based on the template https://github.com/valden/cpptest
+> Based on the template https://github.com/valden/cpptest  
 > Based on my earlier work https://bitbucket.org/dvalchuk/algo-one/src/master/c%2B%2B/sfinae/
