@@ -1,4 +1,4 @@
-sfinae C++ small test project
+sfinae C++14 small test project
 ===============================
 
 # Project layout
